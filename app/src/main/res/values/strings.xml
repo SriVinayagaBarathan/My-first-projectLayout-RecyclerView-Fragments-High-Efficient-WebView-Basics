@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Training</string>
+
+    <string-array name="Stream">
+        <item>Android app Developer</item>
+        <item>iOS App Developer</item>
+        <item>Windows Software Developer</item>
+        <item>Mac OSx Developer</item>
+        <item>Game Developer</item>
+        <item>Web Developer</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item>Requirements are java,kotlin,xml,FireBase</item>
+        <item>Requirements are javascript,React js,FireBase</item>
+        <item>Requirements are C#,xml</item>
+        <item>Requirements are XCode,swift,Objective-c</item>
+        <item>Requirements are Java</item>
+        <item>Requirements are java,javascript,php,HTML,CSS</item>
+
+    </string-array>
+
+
+</resources>

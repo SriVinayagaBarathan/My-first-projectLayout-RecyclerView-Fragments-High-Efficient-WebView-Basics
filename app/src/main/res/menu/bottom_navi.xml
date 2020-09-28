@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Register Form"
+          android:id="@+id/regformid"
+           android:icon="@drawable/left_pointing_arrow"
+        />
+
+    <item
+        android:title="Websites"
+        android:id="@+id/webid"
+        android:icon="@drawable/right_pointing_arrow"  />
+
+</menu>
